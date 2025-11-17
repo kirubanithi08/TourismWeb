@@ -17,7 +17,7 @@ function Home() {
     cName="hero"
     heroimg="img"
     img={homeImage}
-    title="Your Journy Your Story............"
+    title="Your Journy Your Story"
     text="Choose Your Favorite Destination"
     btnlink="/"
     btn="Travel Plan"
